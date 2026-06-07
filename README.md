@@ -28,5 +28,5 @@ In summary, injecting segmentation awareness into a CNN is an effective strategy
 
 ## Video Demonstration
 
-![VUI Crowd Net Video Demonstration](./VUI%20Crowd%20Net.mp4)
+<video src="https://github.com/devansh2506/Crowd_Count_Estimator/raw/main/VUI_Crowd_Net.mp4" controls="controls" muted="muted" style="max-width: 100%;"></video>
 
