@@ -16,7 +16,7 @@ F′ = F − F ⊙ A⁻¹
 
 where ⊙ denotes elementwise multiplication. Intuitively, this subtracts out features associated with background, forcing the network to focus on crowd areas. This inversion scheme is key to making the counting easier by dimming non-crowd regions. Finally, we pass F′ through a 1x1 Convolution to produce the predicted density map.
 
-![VUI-CrowdNet Architecture](https://github.com/user-attachments/assets/0ae8019e-0120-4c52-98d6-f02a3db078b6)
+![VUI-CrowdNet Architecture](./Architecture.png)
 
 ## Results
 
