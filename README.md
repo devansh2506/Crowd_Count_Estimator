@@ -28,7 +28,7 @@ In summary, injecting segmentation awareness into a CNN is an effective strategy
 
 ## Video Demonstration
 
-![VUI Crowd Net Video Demonstration](/Users/devanshkedia/Desktop/Crowd%20Estimation/Crowd_Count_Estimator/VUI%20Crowd%20Net.mp4)
+![VUI Crowd Net Video Demonstration](./VUI%20Crowd%20Net.mp4)
 
 ### Note
 The notebooks `VUI-CrowdNet Dense.ipynb`, `multi-column.ipynb`, and `single col.ipynb` show the early experiments and the challenges we faced. The final improved model is in `VUI_CrowdNet.ipynb`, which includes the best results after many improvements.
